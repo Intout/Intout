@@ -1,6 +1,4 @@
 
-<img src="Background/Big Sur Squares.png" alt="Background" style="height:50%;">
-
 # Mert Tecimen
 
 <div style="text-align: justify;">
